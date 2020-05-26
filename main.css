@@ -1,4 +1,8 @@
-    .arjs-loader {
+body {
+    margin: 0px; 
+    overflow: hidden;
+}  
+.arjs-loader {
       height: 100%;
       width: 100%;
       position: absolute;
